@@ -20,3 +20,5 @@ RISC: Ordenador con un conjunto de instrucciones reducido\
 CPU: Unidad central de procesamiento\
 Software: Todo componente intangible (y no físico) que forma parte de dispositivos como computadoras, teléfonos móviles o tabletas y que permite su funcionamiento.
 Bit: Es la unidad mínima de información. Se utiliza para representar la contraposición entre dos valores (apagado y encendido, falso y verdadero, abierto y cerrado).
+
+https://docs.google.com/document/d/1KOfpNHzqUBX2o-KzfeedXgOjcc0x8i2gDZgpJ0uCT74/edit#
